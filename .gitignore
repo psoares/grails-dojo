@@ -2,8 +2,15 @@
 *.iml
 grails-dojo.iml
 grails-dojo-grailsPlugins.iml
+<<<<<<< HEAD
 target/
 target-eclipse/
 .settings
 .classpath
 .project
+=======
+target
+target-eclipse
+.project
+.settings
+>>>>>>> Ignore eclipse target files
